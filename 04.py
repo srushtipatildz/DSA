@@ -7,3 +7,5 @@ for i in range(n):
     arr.append(x)
     sum=sum+(x**3) #x**3 means x cube
 print(sum)   
+
+
